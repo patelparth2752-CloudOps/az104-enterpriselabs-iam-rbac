@@ -25,8 +25,8 @@ This project demonstrates the implementation of Identity and Access Management (
 - Security groups are used to manage access
 - RBAC roles are assigned to groups instead of individual users
 - Access is scoped at the resource group level
-
----
+  
+![Architecture Overview](screenshots/IAM.jpg)
 
 ## Implementation Steps
 
